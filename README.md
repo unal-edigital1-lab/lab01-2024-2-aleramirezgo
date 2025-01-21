@@ -1,6 +1,8 @@
 # lab01- sumador 
 ## nombres
-
-## informe de laoratorio 
+## Alejandro Ramirez Gomez
+## Juan Esteban Otavo Garcia
+##
+## informe de laboratorio 
 
 ### sumador 
